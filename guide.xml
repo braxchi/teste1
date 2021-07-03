@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RedeTV! Rio de Janeiro HD">
+    <display-name lang="en">RedeTV! Rio de Janeiro HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Band RJ HD">
+    <display-name lang="en">Band RJ HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="CNT Rio">
+    <display-name lang="en">CNT Rio</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="en">Record News</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="SBT Rio HD">
+    <display-name lang="en">SBT Rio HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="RecordTV Rio HD">
+    <display-name lang="en">RecordTV Rio HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Sony Channel HD">
+    <display-name lang="en">Sony Channel HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Fox Channel HD">
+    <display-name lang="en">Fox Channel HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="en">Megapix HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="en">TNT HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="HBO2 HD">
+    <display-name lang="en">HBO2 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="en">HBO Plus HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="en">Telecine Premium HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="en">Telecine Action HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="en">Telecine Touch HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="en">Telecine Fun HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="en">Telecine Pipoca HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="en">Telecine Cult HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="en">Space HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="en">Investigação Discovery</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="en">FX HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="en">A&amp;E HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Lifetime Brazil">
+    <display-name lang="en">Lifetime Brazil</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="en">Studio Universal</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="en">Curta!</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="en">Syfy</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Polishop">
+    <display-name lang="en">Polishop</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="en">Shoptime</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FOX Premium 1 HD">
+    <display-name lang="en">FOX Premium 1 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FOX Premium 2 HD">
+    <display-name lang="en">FOX Premium 2 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="en">Prime Box Brazil</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="en">National Geographic HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="National Geographic Wild HD">
+    <display-name lang="en">National Geographic Wild HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="en">Disney Channel HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="MTV Brasil">
+    <display-name lang="en">MTV Brasil</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name lang="en">Paramount Network</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="en">Comedy Central</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TNT Séries">
+    <display-name lang="en">TNT Séries</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="en">Discovery World HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="en">Arte 1</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="en">ESPN Brasil HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="en">Fox Sports HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Off">
+    <display-name lang="en">Off</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="en">Discovery Turbo</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="BandSports HD">
+    <display-name lang="en">BandSports HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 HD Brazil">
+    <display-name lang="en">Fox Sports 2 HD Brazil</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="BandNews">
+    <display-name lang="en">BandNews</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="en">Premiere Clubes</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="en">Premiere 2</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="en">Premiere 3</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="en">Premiere 4</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 5 Brazil">
+    <display-name lang="en">Premiere 5 Brazil</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="en">Premiere 6</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name lang="en">Premiere 7</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 8">
+    <display-name lang="en">Premiere 8</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 9">
+    <display-name lang="en">Premiere 9</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 10">
+    <display-name lang="en">Premiere 10</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="en">Premiere Clubes HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 2 HD">
+    <display-name lang="en">Premiere 2 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere 3 HD">
+    <display-name lang="en">Premiere 3 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere HD 4">
+    <display-name lang="en">Premiere HD 4</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Premiere HD 5">
+    <display-name lang="en">Premiere HD 5</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+</tv>
